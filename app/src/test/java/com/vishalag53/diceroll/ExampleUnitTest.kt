@@ -1,4 +1,4 @@
-package com.example.diceroll
+package com.vishalag53.diceroll
 
 import org.junit.Test
 

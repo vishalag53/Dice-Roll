@@ -1,10 +1,10 @@
-package com.example.diceroll
+package com.vishalag53.diceroll
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 import android.widget.ImageView
-import com.example.diceroll.databinding.ActivityMainBinding
+import com.vishalag53.diceroll.databinding.ActivityMainBinding
 import kotlin.random.Random
 
 class MainActivity : AppCompatActivity() {

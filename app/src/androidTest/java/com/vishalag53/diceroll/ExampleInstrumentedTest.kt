@@ -1,4 +1,4 @@
-package com.example.diceroll
+package com.vishalag53.diceroll
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
